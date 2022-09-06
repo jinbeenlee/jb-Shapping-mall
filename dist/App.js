@@ -1,0 +1,1 @@
+import React from'./node_modules/react/index.js';import MainList from'./pages/MainList.js';const _ref=document.createElement("link");_ref.rel="stylesheet",_ref.href="/App.css",document.head.appendChild(_ref);function App(){return React.createElement("div",{className:"App"},React.createElement(MainList,null))}export default App;
